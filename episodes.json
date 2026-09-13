@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2026-W37",
+    "week_of": "September 12, 2026",
+    "title": "Week of September 12, 2026",
+    "pub_date": "Sat, 12 Sep 2026 14:00:00 +0000",
+    "description": "Welcome to this week’s episode of Family Dinner Plan! Let’s dive into our delicious dinners for the week of September 12, 2026.\n\nOn Sunday, we’re firing up the Traeger for a mouthwatering Traeger Herb-Rubbed Pork Tenderloin with Roasted Brussels Sprouts & Apples. Make sure to season your pork ahead of time to let those flavors really soak in. The smokiness from the Traeger will amaze everyone at the table!\n\nFor Monday, we have a comforting Creamy Chicken & Cauliflower Rice Soup, perfect for those a bit chillier evenings ahead. This one's a slow cooker recipe, so do the prep in the morning! Just toss everything in, turn it on, and come home to a warm, hearty meal waiting for you.\n\nTuesday brings us a quick Beef and Broccoli Stir-Fry with Zucchini Noodles. A great tip here is to prep your beef by slicing it thinly and marinating it for at least 30 minutes before stir-frying. This will enhance the flavor and tenderness of the beef, making your stir-fry even more delicious!\n\nOn Wednesday, we’re enjoying a Sausage, White Bean & Kale Soup. This meal is perfect for using up any greens you have in the fridge. Just add them toward the end of cooking to keep them vibrant and full of nutrients.\n\nThursday’s dinner is a fantastic Slow Cooker Honey Sesame Chicken with Cauliflower Rice. A helpful tip here is to mix your sauce ingredients in a jar the night before. That way, it’s quick and easy to pour over the chicken in the morning, making your dinner prep a breeze!\n\nFinally, on Friday, we’ll transform our leftover Honey Sesame Chicken into a creative Honey Sesame Chicken Chopped Salad. To boost the freshness, chop up some extra veggies and toss them in! It’s a great way to enjoy those leftovers while keeping dinner light and fun.\n\nThat’s the family dinner plan for this week! Wishing you a week full of tasty meals and happy gatherings around the dinner table. Until next time!",
+    "bytes": 936481,
+    "duration": 117,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Herb-Rubbed Pork Tenderloin with Roasted Brussels Sprouts & Apples"
+      },
+      {
+        "day": "Monday",
+        "name": "Creamy Chicken & Cauliflower Rice Soup (Slow Cooker)"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Beef and Broccoli Stir-Fry with Zucchini Noodles"
+      },
+      {
+        "day": "Wednesday",
+        "name": "Sausage, White Bean & Kale Soup"
+      },
+      {
+        "day": "Thursday",
+        "name": "Slow Cooker Honey Sesame Chicken with Cauliflower Rice"
+      },
+      {
+        "day": "Friday",
+        "name": "Honey Sesame Chicken Chopped Salad (Leftover Remix)"
+      }
+    ]
+  }
+]

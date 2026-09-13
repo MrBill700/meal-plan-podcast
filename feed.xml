@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Family Dinner Plan</title>
+    <link>https://mrbill700.github.io/meal-plan-podcast/</link>
+    <language>en-us</language>
+    <description>A few minutes every Saturday walking through the coming week's family dinners: what's cooking each night and one quick tip per meal.</description>
+    <itunes:author>Meal Planner Bot</itunes:author>
+    <itunes:image href="https://mrbill700.github.io/meal-plan-podcast/cover.png" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Food" />
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Week of September 12, 2026</title>
+      <description>Welcome to this week’s episode of Family Dinner Plan! Let’s dive into our delicious dinners for the week of September 12, 2026.
+
+On Sunday, we’re firing up the Traeger for a mouthwatering Traeger Herb-Rubbed Pork Tenderloin with Roasted Brussels Sprouts &amp; Apples. Make sure to season your pork ahead of time to let those flavors really soak in. The smokiness from the Traeger will amaze everyone at the table!
+
+For Monday, we have a comforting Creamy Chicken &amp; Cauliflower Rice Soup, perfect for those a bit chillier evenings ahead. This one's a slow cooker recipe, so do the prep in the morning! Just toss everything in, turn it on, and come home to a warm, hearty meal waiting for you.
+
+Tuesday brings us a quick Beef and Broccoli Stir-Fry with Zucchini Noodles. A great tip here is to prep your beef by slicing it thinly and marinating it for at least 30 minutes before stir-frying. This will enhance the flavor and tenderness of the beef, making your stir-fry even more delicious!
+
+On Wednesday, we’re enjoying a Sausage, White Bean &amp; Kale Soup. This meal is perfect for using up any greens you have in the fridge. Just add them toward the end of cooking to keep them vibrant and full of nutrients.
+
+Thursday’s dinner is a fantastic Slow Cooker Honey Sesame Chicken with Cauliflower Rice. A helpful tip here is to mix your sauce ingredients in a jar the night before. That way, it’s quick and easy to pour over the chicken in the morning, making your dinner prep a breeze!
+
+Finally, on Friday, we’ll transform our leftover Honey Sesame Chicken into a creative Honey Sesame Chicken Chopped Salad. To boost the freshness, chop up some extra veggies and toss them in! It’s a great way to enjoy those leftovers while keeping dinner light and fun.
+
+That’s the family dinner plan for this week! Wishing you a week full of tasty meals and happy gatherings around the dinner table. Until next time!</description>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">meal-plan-podcast:2026-W37</guid>
+      <link>https://mrbill700.github.io/meal-plan-podcast/episodes/2026-W37.mp3</link>
+      <enclosure url="https://mrbill700.github.io/meal-plan-podcast/episodes/2026-W37.mp3" length="936481" type="audio/mpeg" />
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
