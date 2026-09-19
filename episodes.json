@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W38",
+    "week_of": "September 19, 2026",
+    "title": "Week of September 19, 2026",
+    "pub_date": "Sat, 19 Sep 2026 14:00:00 +0000",
+    "description": "BENDY: Huli means turn. That's the whole trick — you turn the chicken and mop it with sauce, turn and mop, until the outside goes sticky and almost lacquered.\n\nBUB: How many times?\n\nBENDY: Four or five over about forty minutes. Every time you open the Traeger you're painting on another layer.\n\nBUB: So it's like a chicken with paint.\n\nBENDY: A chicken with six coats of paint. Okay — today. Pull the chicken thighs for tomorrow out of the freezer now, into the fridge, and the pork shoulder for Tuesday too.\n\nBUB: Both?\n\nBENDY: Both. A shoulder that's still icy in the middle takes forever to break down. While those thaw, make the huli huli sauce tonight — soy, pineapple juice, brown sugar, ginger, garlic, rice vinegar. Simmer it five minutes so it thickens slightly.\n\nBUB: Why tonight?\n\nBENDY: Because half of it becomes the marinade and the thighs sit in it overnight. Reserve the other half in a jar and don't let it touch raw chicken — that's your mopping sauce.\n\nBENDY: Then: two delicata squash, a big head of broccoli, Brussels sprouts, a head of cauliflower. Cut the cauliflower into florets today and bag it. Mix the meatballs tonight too and roll them, on a sheet pan in the fridge.\n\nBUB: Rolling meatballs is the best part.\n\nBENDY: It's yours. Sunday — Traeger at 375, thighs skin side up, and the delicata gets cut in half-moons, seeds scooped, skin left on.\n\nBUB: You don't peel it?\n\nBENDY: You don't have to. The skin on delicata goes tender. Broccoli goes in the last twelve minutes or it turns gray and sad.\n\nBENDY: Monday, the tomatoes. Get the pan hot and leave them alone until they split and leak. If you stir too early they just roll around staying whole and you get no sauce.\n\nBUB: And the zucchini noodles?\n\nBENDY: Thirty seconds in the pan, max. Longer than that and they water out and it's soup.\n\nBUB: Noodle soup, though.\n\nBENDY: Not the good kind. Tuesday, carnitas — eight hours on low with orange, lime, garlic, cumin. Then shred it and run it under the broiler four minutes on a sheet pan.\n\nBUB: Why?\n\nBENDY: Because slow cooker pork is tender but it's soft all the way through. The broiler gives you crispy edges. That's the part people fight over. Pineapple pico with red onion and cilantro, and lettuce cups instead of tortillas.\n\nBENDY: Wednesday, ginger orange chicken with the sprouts. Sprouts cut side down, and give the chicken its own corner of the pan.\n\nBUB: Crowded pan means steamed, not roasted.\n\nBENDY: Look at you. Thursday, sausage and peppers — brown the sausage coins first and pull them out before the peppers go in. Otherwise they sit in pepper steam and never get color. Roasted cauliflower alongside, 425 until the tips go dark.\n\nBENDY: And Wednesday, cook two extra chicken breasts. Friday is the remix — everything chopped fine and rolled into cabbage leaves.\n\nBUB: Leftovers in disguise.\n\nBENDY: Leftovers with a new job. Saturday, takeout, and nobody touches the stove.\n\nBUB: So tonight is",
+    "bytes": 1609813,
+    "duration": 201,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Huli Huli Chicken with Roasted Delicata Squash and Broccoli"
+      },
+      {
+        "day": "Monday",
+        "name": "Meatballs with Basil and Burst Tomatoes over Zucchini Noodles"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Slow Cooker Carnitas Lettuce Wraps with Pineapple Pico"
+      },
+      {
+        "day": "Wednesday",
+        "name": "Sheet Pan Ginger Orange Chicken with Brussels Sprouts"
+      },
+      {
+        "day": "Thursday",
+        "name": "Chicken Sausage and Peppers Skillet with Roasted Cauliflower"
+      },
+      {
+        "day": "Friday",
+        "name": "Chopped Chicken Cabbage Wraps (Leftover Remix)"
+      }
+    ]
+  },
+  {
     "id": "2026-W37",
     "week_of": "September 12, 2026",
     "title": "Week of September 12, 2026",
