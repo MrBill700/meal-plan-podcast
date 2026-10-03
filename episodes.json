@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W40",
+    "week_of": "October 03, 2026",
+    "title": "Week of October 03, 2026",
+    "pub_date": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "description": "BENDY: One batch of lemon basil pesto on Sunday afternoon is going to carry us all the way to Wednesday.\n\nBUB: The same sauce twice?\n\nBENDY: Three times, technically. Marinade Sunday, dipping sauce Sunday, and then it's the whole point of Wednesday's dinner.\n\nBUB: Sneaky.\n\nBENDY: Efficient. So here's today, in the car, before we even get home. Pull three packs of chicken breasts out of the freezer and the flank steak too. They go in the fridge, not on the counter.\n\nBUB: Why not the counter?\n\nBENDY: Because the outside thaws way faster than the middle and sits warm for hours. Fridge takes a day and a half and it's fine.\n\nBENDY: Tonight I'm making a double batch of pesto. Basil, garlic, parm, lemon zest and juice, olive oil. Half goes in a bag with the chicken for Sunday, half stays sealed in a jar with a thin film of oil on top so it doesn't go brown.\n\nBUB: What about the squash?\n\nBENDY: Good. Butternut and Brussels sprouts today, and I'll peel and cube the squash tonight so Sunday is just oil, salt, sheet pan. Also two heads of cauliflower, because we're ricing both at once in the food processor and splitting it for Tuesday and Thursday.\n\nBUB: Both at once?\n\nBENDY: I am not pulling that processor out twice. Pulse it, don't run it, or you get cauliflower mush.\n\nBENDY: Sunday is Lemon Pesto Grilled Chicken with Roasted Butternut Squash and Brussels Sprouts. Traeger at 425, chicken comes off at 160 and rests five minutes.\n\nBUB: Not 165?\n\nBENDY: It climbs while it rests. Pull at 165 and you've got sawdust. The reserved pesto goes on after it rests, never before the grill, or the basil scorches.\n\nBENDY: Monday, 20 Minute Cashew Chicken Lettuce Wraps. Sear the chicken in two batches in a hot pan.\n\nBUB: Why two?\n\nBENDY: Crowd the pan and the chicken steams in its own juice. No browning, no flavor. Toast the cashews dry for two minutes first.\n\nBENDY: Tuesday, Crockpot Chicken Tikka Masala with Cauliflower Rice. Bloom the garam masala and ginger in oil for thirty seconds before it goes in the crock.\n\nBUB: Thirty seconds does something?\n\nBENDY: It wakes the spices up. Skip it and eight hours later it still tastes dusty. Cream goes in the last ten minutes or it splits.\n\nBENDY: Wednesday, Pesto Basil Chicken and Zoodles. Salt the zoodles, let them sit ten minutes, squeeze them in a towel.\n\nBUB: That sounds like a lot of water.\n\nBENDY: It's a shocking amount. Skip it and you're eating pesto soup. Sauce goes on off the heat.\n\nBENDY: Thursday, Mongolian Beef with Broccoli and Cauliflower Rice. Slice the flank steak thin against the grain while it's still half frozen.\n\nBUB: Against the grain means across the lines?\n\nBENDY: Across the lines. With them and it's chewy no matter how long you cook it.\n\nBENDY: Friday, Easy Orange Pork Stir Fry. Zest the oranges before you juice them, and mix the cornstarch into cold sauce, not hot pan.\n\nBUB: Or lumps.\n\nBENDY: Or lumps. Saturday is takeout, and nobody touches the stove.\n\nBENDY: And if you only do one thing today, make the pesto.",
+    "bytes": 1692151,
+    "duration": 211,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Lemon Pesto Grilled Chicken with Roasted Butternut Squash & Brussels Sprouts"
+      },
+      {
+        "day": "Monday",
+        "name": "20 Minute Cashew Chicken Lettuce Wraps"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Crockpot Chicken Tikka Masala with Cauliflower Rice"
+      },
+      {
+        "day": "Wednesday",
+        "name": "Pesto Basil Chicken and Zoodles"
+      },
+      {
+        "day": "Thursday",
+        "name": "Mongolian Beef with Broccoli and Cauliflower Rice"
+      },
+      {
+        "day": "Friday",
+        "name": "Easy Orange Pork Stir Fry"
+      }
+    ]
+  },
+  {
     "id": "2026-W39",
     "week_of": "September 26, 2026",
     "title": "Week of September 26, 2026",
