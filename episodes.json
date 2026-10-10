@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W41",
+    "week_of": "October 10, 2026",
+    "title": "Week of October 10, 2026",
+    "pub_date": "Sat, 10 Oct 2026 14:00:00 +0000",
+    "description": "BENDY: One pork shoulder, two completely different dinners. Monday it's lemongrass and lime. Wednesday it's smoke and barbecue sauce. Same cut, nobody notices.\n\nBUB: Wait, is it the same pork? Like, the actual same meat?\n\nBENDY: Same cut, two batches. Which brings me to today, because today is the whole trick.\n\nBUB: Here it comes.\n\nBENDY: Freezer, right now. Whole chicken for tomorrow, both pork shoulders, and the chicken thighs for Thursday. Fridge, not counter. The pork needs two full days.\n\nBUB: Two days for frozen pork?\n\nBENDY: A shoulder is dense. Half-thawed means it cooks uneven and the middle stays tough. Tonight, dry-brine the chicken — salt it all over, uncovered in the fridge, and leave it. That's how the skin gets crisp instead of rubbery.\n\nBUB: Naked chicken in the fridge all night.\n\nBENDY: Dry skin, Bub. Dry skin is the whole glaze plan. Also tonight: blend the lemongrass marinade so Monday is just dump and walk away. And at the store, grab two big cauliflower heads, delicata squash, a couple sweet potatoes, broccoli, mushrooms, and oranges.\n\nBUB: Two cauliflowers?\n\nBENDY: One gets riced Thursday, one gets roasted. If you rice it today it goes damp and smells like a gym bag by Thursday.\n\nBENDY: Sunday: Traeger Citrus Maple Glazed Chicken with Roasted Fall Vegetables. Chicken goes on around 325, and the glaze waits until the last twenty minutes.\n\nBUB: Why not glaze it the whole time?\n\nBENDY: Maple is sugar. Sugar over an hour of smoke turns bitter and black. Twenty minutes gets you that sticky, shiny orange-brown instead. Delicata and sweet potatoes on a separate pan — the squash skin is edible, so don't peel it.\n\nBUB: That's my favorite part. It gets chewy.\n\nBENDY: Monday: Slow Cooker Lemongrass Pork Bowls. Low for eight hours, and don't drown it. A quarter",
+    "bytes": 1033448,
+    "duration": 129,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Citrus Maple Glazed Chicken with Roasted Fall Vegetables"
+      },
+      {
+        "day": "Monday",
+        "name": "Slow Cooker Lemongrass Pork Bowls"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Philly Cheesesteak Stuffed Bell Peppers"
+      },
+      {
+        "day": "Wednesday",
+        "name": "BBQ Pulled Pork Bowls with Roasted Broccoli"
+      },
+      {
+        "day": "Thursday",
+        "name": "Marry Me Chicken with Cauliflower Rice and Green Beans"
+      },
+      {
+        "day": "Friday",
+        "name": "Hearty Paleo Chili with Side Salad"
+      }
+    ]
+  },
+  {
     "id": "2026-W40",
     "week_of": "October 03, 2026",
     "title": "Week of October 03, 2026",
