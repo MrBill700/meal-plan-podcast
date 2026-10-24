@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W43",
+    "week_of": "October 24, 2026",
+    "title": "Week of October 24, 2026",
+    "pub_date": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "description": "BENDY: One bird on the Traeger tomorrow, and that same bird turns into Friday dinner.\n\nBUB: The exact same chicken? Six days later?\n\nBENDY: Not six. Sunday it's dinner, Friday the picked-off meat goes into lettuce wraps. In between it sits in the fridge being useful.\n\nBUB: So the chicken is the main character.\n\nBENDY: The chicken is basically the whole cast. Which is why today matters.\n\nBENDY: Here's the Saturday list. Whole chicken out of the freezer right now, into the fridge, breast up on a sheet pan. A four-pounder needs a full day and then some.\n\nBUB: What if it's still frozen in the middle?\n\nBENDY: Then the skin burns before the thighs are done. That's the whole reason we're doing it today.\n\nBENDY: Tonight, salt it. Teaspoon of kosher salt per pound, up under the breast skin too, then leave it uncovered in the fridge. Dry skin crisps. Wet skin steams.\n\nBENDY: Also tonight: the cashew sauce. Coconut aminos, rice vinegar, garlic, ginger, a little chili. It sits better overnight anyway.\n\nBUB: Can I smash the cashews?\n\nBENDY: You can smash the cashews. Put them in a bag, use the bottom of a pan, leave some big pieces.\n\nBENDY: At the store: two heads of cauliflower, three heads of butter lettuce, a delicata squash, a butternut, a couple sweet potatoes, Brussels sprouts, green chiles, and ground beef for Tuesday.\n\nBENDY: Rice both cauliflowers today while the processor's already dirty. Two bags, one for Wednesday, one spare. And pull the chili beef down to the fridge tomorrow night.\n\nBENDY: Sunday is Traeger Whole Roasted Chicken with Fall Vegetables. Smoke at 225 for an hour, then crank to 375 to finish. One temperature the whole way and you get rubbery skin.\n\nBUB: What temperature is it done?\n\nBENDY: 165 in the thigh, not the breast. The breast lies.\n\nBENDY: Monday, Cashew Chicken Lettuce Wraps. Cook the chicken in two batches in a hot pan. Crowd it and it dumps water and turns gray.\n\nBUB: It got messy last time.\n\nBENDY: It will again. Double up the lettuce leaves.\n\nBENDY: Tuesday, Slow Cooker Hearty Paleo Chili. Brown the beef first,",
+    "bytes": 1138982,
+    "duration": 142,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Whole Roasted Chicken with Fall Vegetables"
+      },
+      {
+        "day": "Monday",
+        "name": "Cashew Chicken Lettuce Wraps"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Slow Cooker Hearty Paleo Chili"
+      },
+      {
+        "day": "Wednesday",
+        "name": "Cajun Chicken and Cauli Rice Skillet"
+      },
+      {
+        "day": "Thursday",
+        "name": "Slow Cooker Green Chile Chicken Soup"
+      },
+      {
+        "day": "Friday",
+        "name": "Leftover Chicken Lettuce Wraps with Roasted Delicata Squash"
+      }
+    ]
+  },
+  {
     "id": "2026-W42",
     "week_of": "October 17, 2026",
     "title": "Week of October 17, 2026",
