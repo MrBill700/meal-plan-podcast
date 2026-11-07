@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W45",
+    "week_of": "November 07, 2026",
+    "title": "Week of November 07, 2026",
+    "pub_date": "Sat, 07 Nov 2026 14:00:00 +0000",
+    "description": "BENDY: Five of this week's six dinners use cauliflower rice, so I'm riceing a whole head tonight and we are never thinking about it again.\n\nBUB: Five out of six? That's almost a crime.\n\nBENDY: It's almost a system. Here's today's list. Pull the pork tenderloin and the two pounds of ground beef out of the freezer now and put them in the fridge on a plate — tenderloin thaws by morning, beef by Monday night.\n\nBUB: Why a plate?\n\nBENDY: Because thawing meat leaks, and I'd rather wash a plate than the whole fridge. Tonight I'm whisking the maple-Dijon glaze — maple syrup, grainy mustard, a little cider vinegar, garlic, salt — and half of it goes on the pork in a bag to sit overnight. The other half stays back for brushing.\n\nBUB: Why can't you just use all of it?\n\nBENDY: Because the half that touched raw pork is done being sauce. Also today: rice that cauliflower, halve the Brussels sprouts, and cut the delicata into half-moons. You don't peel delicata, the skin goes soft.\n\nBUB: That's the striped one.\n\nBENDY: That's the one. Sunday the Traeger runs at 400 for the squash and sprouts, cut side down, while the tenderloin smokes at 225 until it hits 140 in the middle. Then I brush the reserved glaze on and crank the heat for four minutes.\n\nBUB: Why not sauce it the whole time?\n\nBENDY: Maple burns. Sauce it early and you get a black crust that tastes like a campfire. Pull at 145 and let it rest ten minutes or the juice runs out on the board.\n\nBUB: Ten whole minutes of staring at it.\n\nBENDY: Monday is Slow Cooker Italian Sausage and Peppers with Cauliflower Rice. Brown the sausages in a skillet first, three minutes a side. Raw into the crock and they come out pale and a little rubbery.\n\nBUB: Gray sausage. No.\n\nBENDY: I'm adding sliced mushrooms in the last hour so they don't turn to mush. Tuesday, Sloppy Joeys, lettuce wrap style. Drain the beef fat before the sauce goes in, otherwise the sauce slides right off the lettuce and into your lap.\n\nBUB: Speaking from experience.\n\nBENDY: Painfully. Wednesday is 20 Minute Shredded Chicken Verde with Cauliflower Rice and Black Beans. Shred the chicken right in the pot and let it sit five minutes in the salsa verde — that's when it drinks the sauce back up instead of going dry.\n\nBUB: Two forks or the mixer?\n\nBENDY: Two forks. The mixer is for when I'm tired. Thursday, Ground Beef and Broccoli Stir Fry. Get the pan hot before anything touches it, and cook the broccoli separately for two minutes. Crowded pan, steamed broccoli, sad week.\n\nBUB: Loud pan is good pan.\n\nBENDY: Friday is the Honey Glazed Garlic Chicken Wings with Roasted Broccoli and Cauliflower. Pat the wings bone dry and give them space on the rack — moisture is what keeps skin from crisping. Glaze at the end, same reason as the pork.\n\nBUB: Honey burns too.\n\nBENDY: Everything sweet burns. Saturday we get takeout and I touch no knives.\n\nBUB: And no cauliflower.\n\nBENDY: Don't push it. Rice the head today, Bub, and Thursday is basically free.",
+    "bytes": 1647848,
+    "duration": 205,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Maple Dijon Pork Tenderloin with Roasted Delicata Squash and Brussels Sprouts"
+      },
+      {
+        "day": "Monday",
+        "name": "Slow Cooker Italian Sausage and Peppers with Cauliflower Rice"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Sloppy Joeys (Lettuce Wrap Style)"
+      },
+      {
+        "day": "Wednesday",
+        "name": "20 Minute Shredded Chicken Verde (Slow Cooker) with Cauliflower Rice and Black Beans"
+      },
+      {
+        "day": "Thursday",
+        "name": "Ground Beef and Broccoli Stir Fry with Cauliflower Rice"
+      },
+      {
+        "day": "Friday",
+        "name": "Honey Glazed Garlic Chicken Wings with Roasted Broccoli and Cauliflower"
+      }
+    ]
+  },
+  {
     "id": "2026-W44",
     "week_of": "October 31, 2026",
     "title": "Week of October 31, 2026",
