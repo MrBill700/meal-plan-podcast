@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-W47",
+    "week_of": "November 21, 2026",
+    "title": "Week of November 21, 2026",
+    "pub_date": "Sat, 21 Nov 2026 14:00:00 +0000",
+    "description": "BENDY: One pork shoulder is doing two dinners this week, and the second one might be better than the first.\n\nBUB: How is leftovers better?\n\nBENDY: Because Thursday the carnitas get crisped up again and land on roasted delicata squash. Monday it's lettuce wraps, Thursday it's a bowl. Same pork, completely different dinner.\n\nBUB: Okay, I'm in.\n\nBENDY: So here's today. Pull the pork shoulder out of the freezer right now and put it in the fridge, not the counter. A four-pounder needs two full days, and Monday morning it has to go in the slow cooker cold, not half-frozen.\n\nBUB: What else?\n\nBENDY: Chicken thighs for tomorrow, mix the marinade tonight. Pineapple juice, soy, grated ginger, garlic, a little brown sugar. Pour half over the thighs in a bag, and keep the other half in a jar in the fridge.\n\nBUB: Why two halves?\n\nBENDY: Because the half that touched raw chicken is done. The clean half is the glaze. Also move the ground beef and ground turkey to the fridge, and at the store get butternut, delicata, two pounds of Brussels sprouts, and a big bunch of dill. If you want twenty quiet minutes tonight, cube the butternut and halve the sprouts now.\n\nBENDY: Sunday, Traeger Huli Huli Chicken with Roasted Butternut Squash and Brussels Sprouts. Thighs at 350 until they hit 175. The glaze goes on in the last ten minutes only",
+    "bytes": 687167,
+    "duration": 85,
+    "meals": [
+      {
+        "day": "Sunday",
+        "name": "Traeger Huli Huli Chicken with Roasted Butternut Squash and Brussels Sprouts"
+      },
+      {
+        "day": "Monday",
+        "name": "Slow Cooker Carnitas with Pineapple Pico and Lettuce Wraps"
+      },
+      {
+        "day": "Tuesday",
+        "name": "Mediterranean Beef and Veggie Skillet"
+      },
+      {
+        "day": "Wednesday",
+        "name": "Skillet Lemon and Dill Chicken with Roasted Green Beans"
+      },
+      {
+        "day": "Thursday",
+        "name": "Leftover Carnitas Bowls with Roasted Delicata Squash and Arugula"
+      },
+      {
+        "day": "Friday",
+        "name": "Ground Turkey, Brussels Sprouts, and Arugula Bowl"
+      }
+    ]
+  },
+  {
     "id": "2026-W45",
     "week_of": "November 07, 2026",
     "title": "Week of November 07, 2026",
